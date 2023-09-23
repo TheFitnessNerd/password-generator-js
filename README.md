@@ -13,10 +13,13 @@ After following all the prompts, your new secure password will be generated!
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](Assets/03-javascript-homework-demo.png)
+    ![alt text](./Assets/Screenshot.png)
     ```
 
-<!-- I have added the screenshot link for my last 2 homeworks but for some reason they have not shown. So i have left the directions, which I've followed to a "T". -->
+![Alt text](Assets/Screenshot.png)
+
+<!-- I have added the screenshot link for my last 2 homeworks but for some reason they have not shown. So i have left the directions, which I've followed to a "T". 
+Then I just copied and pasted the actual file, just in case.-->
 ## Credits
 
 I attending part of a study group with some class members. I do not have names.
