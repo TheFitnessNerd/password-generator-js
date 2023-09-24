@@ -22,9 +22,10 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 Then I just copied and pasted the actual file, just in case.-->
 ## Credits
 
-I attending part of a study group with some class members. I do not have all names unfortunately.
+I attending part of a study group with some class members. I do not have all names but I have included majority:
+Allex Ortiz, Tisha Anderson, Lindsay Green, Chad Edwards, Shan Nowak, & Preston Whitlock. (This was my first study group and I did not stay for the duration but in the future I will make sure to notate all names of attendees.)
 Reveived tutoring help from Sachi Jhaveri.
-Watched several tuturials by Dave Gray on youtube- https://youtu.be/gLt1KJPmjXA?si=8ujHuP0pbrjTNeRt
+Watched several tuturials by Dave Gray on youtube. This one in particular was very helpful- https://youtu.be/gLt1KJPmjXA?si=8ujHuP0pbrjTNeRt
 
 ## License
 
